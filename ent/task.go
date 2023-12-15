@@ -9,7 +9,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/suyuan32/simple-admin-job/ent/task"
+	"github.com/huuhoait/simple-admin-job/ent/task"
 )
 
 // Task is the model entity for the Task schema.

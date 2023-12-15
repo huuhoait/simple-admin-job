@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/suyuan32/simple-admin-job/internal/svc"
+	"github.com/huuhoait/simple-admin-job/internal/svc"
 )
 
 type DPTask struct {

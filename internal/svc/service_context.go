@@ -19,9 +19,9 @@ import (
 	"github.com/zeromicro/go-zero/core/logx"
 	"github.com/zeromicro/go-zero/core/stores/redis"
 
-	"github.com/suyuan32/simple-admin-job/ent"
-	"github.com/suyuan32/simple-admin-job/internal/config"
-	"github.com/suyuan32/simple-admin-job/internal/mqs/amq/types/periodicconfig"
+	"github.com/huuhoait/simple-admin-job/ent"
+	"github.com/huuhoait/simple-admin-job/internal/config"
+	"github.com/huuhoait/simple-admin-job/internal/mqs/amq/types/periodicconfig"
 )
 
 type ServiceContext struct {

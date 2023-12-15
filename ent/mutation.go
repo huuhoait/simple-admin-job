@@ -11,9 +11,9 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/suyuan32/simple-admin-job/ent/predicate"
-	"github.com/suyuan32/simple-admin-job/ent/task"
-	"github.com/suyuan32/simple-admin-job/ent/tasklog"
+	"github.com/huuhoait/simple-admin-job/ent/predicate"
+	"github.com/huuhoait/simple-admin-job/ent/task"
+	"github.com/huuhoait/simple-admin-job/ent/tasklog"
 )
 
 const (

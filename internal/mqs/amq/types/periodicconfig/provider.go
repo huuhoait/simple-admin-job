@@ -21,8 +21,8 @@ import (
 
 	"github.com/hibiken/asynq"
 	"github.com/suyuan32/simple-admin-common/enum/common"
-	"github.com/suyuan32/simple-admin-job/ent"
-	"github.com/suyuan32/simple-admin-job/ent/task"
+	"github.com/huuhoait/simple-admin-job/ent"
+	"github.com/huuhoait/simple-admin-job/ent/task"
 )
 
 type EntConfigProvider struct {
